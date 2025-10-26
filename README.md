@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nishadi!
 
-<!--
-**Nishadi-codes/Nishadi-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s student in Computer Science at [Johannes Kepler University Linz (JKU)](https://www.jku.at/)  
+💡 Exploring IoT, AI, and smart software systems that make everyday life easier.
 
-Here are some ideas to get you started:
+## 🚀 Learning Journey
+- Strengthening my programming skills in Python and C++
+- Exploring IoT architecture and cloud connectivity
+- Learning database design and SQL (MySQL)
+- Building small experiments to apply course concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+**Languages:** Python · PHP · Java · JavaScript .SQL (MySQL)
+
+
+## 🌱 Currently Learning
+- Pervasive computing Sytem and Environments
+- Pervasive computing Design and Development
+- Computer Vision
+- Mobile Web Development
+- Advanced Cryptography
+- Computer Forensics and IT Law
+
+
+## 📫 Connect with Me
+📧 Email: rathnayakan7@gmail.com
+
